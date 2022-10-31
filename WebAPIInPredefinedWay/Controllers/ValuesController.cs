@@ -12,7 +12,7 @@ namespace WebAPIInPredefinedWay.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" ,"Changed and Ready to push into cloud (git hub or devops)"};//
+            return new string[] { "value1", "value1", "value2" ,"Changed and Ready to push into cloud (git hub or devops)"};//
         }
 
         // GET api/values/5
